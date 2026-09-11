@@ -1,0 +1,15 @@
+# Compiled Java bytecode
+*.class
+
+# Output folders
+out/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS generated files
+.DS_Store
+Thumbs.db
